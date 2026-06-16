@@ -31,8 +31,7 @@ export default function HeroSection() {
         playsInline
         className="absolute inset-0 w-full h-full object-cover z-0"
       >
-        <source src="/assets/hero-main.mov" type="video/quicktime" />
-        <source src="/assets/hero-main.mov" type="video/mp4" />
+        <source src="/assets/hero-main.mp4" type="video/mp4" />
       </video>
 
       {/* ── Overlays ── */}

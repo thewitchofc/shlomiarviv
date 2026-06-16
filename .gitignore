@@ -40,10 +40,14 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# large media files (host via CDN or Git LFS)
+# large media files – originals excluded, optimised web versions allowed
 *.mov
-*.mp4
 *.webm
+# exclude all mp4 by default, then re-allow the optimised ones under 15MB
+*.mp4
+!public/assets/hero-main.mp4
+!public/assets/hero-video-4.mp4
+!public/assets/transformation-2-video.mp4
 
 # build cache inside src
 src/.next/
