@@ -49,9 +49,9 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Bottom — all nav categories spread horizontally */}
+        {/* Bottom — all nav categories centered */}
         <nav className="py-10 border-b border-[#F8F6F3]/[0.06]">
-          <ul className="flex flex-wrap justify-between items-center gap-y-5 gap-x-4">
+          <ul className="flex flex-wrap justify-center items-center gap-y-4 gap-x-10">
             {[
               { label: "טיפולים", href: "#services" },
               { label: "טרנספורמציות", href: "#transformations" },
