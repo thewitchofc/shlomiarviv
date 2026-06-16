@@ -19,7 +19,7 @@ export default function FinalCTA() {
       <motion.div className="absolute inset-0 z-0" style={{ y: videoY }}>
         <video autoPlay muted loop playsInline preload="metadata"
           className="absolute inset-0 w-full h-full object-cover scale-110">
-          <source src="/assets/hero-video-4.mp4" type="video/mp4" />
+          <source src="/assets/finalcta-video.mp4" type="video/mp4" />
         </video>
       </motion.div>
 
