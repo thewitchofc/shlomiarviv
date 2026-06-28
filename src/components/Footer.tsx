@@ -10,7 +10,7 @@ export default function Footer() {
 
   return (
     <footer className="bg-[#111111] pt-20 md:pt-28 pb-10">
-      <div className="max-w-6xl mx-auto px-8 md:px-16 lg:px-28 xl:px-36">
+      <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-16 xl:px-20">
 
         {/* Top — brand centered */}
         <div className="flex flex-col items-center text-center pb-14 border-b border-[#F8F6F3]/[0.08]">

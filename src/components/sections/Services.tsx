@@ -27,7 +27,7 @@ export default function Services() {
     <section id="services" ref={ref} className="py-44 md:py-80 bg-white relative">
       <div className="absolute top-0 inset-x-0 h-px bg-[#111111]/[0.10]" />
 
-      <div className="max-w-6xl mx-auto px-8 md:px-16 lg:px-28 xl:px-36">
+      <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-16 xl:px-20">
 
         {/* Header */}
         <div className="mb-16 md:mb-24 flex flex-col md:flex-row md:items-end justify-between gap-8">

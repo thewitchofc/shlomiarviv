@@ -32,7 +32,7 @@ export default function FinalCTA() {
       <div className="absolute inset-x-0 top-0 h-40 bg-gradient-to-b from-[#F8F6F3] to-transparent z-[3]" />
 
       {/* Content */}
-      <div className="relative z-10 w-full px-8 md:px-16 lg:px-28 xl:px-36 py-32 flex flex-col items-center text-center max-w-5xl mx-auto">
+      <div className="relative z-10 w-full px-6 md:px-12 lg:px-16 xl:px-20 py-32 flex flex-col items-center text-center max-w-5xl mx-auto">
 
         <motion.div
           initial={{ opacity: 0 }}

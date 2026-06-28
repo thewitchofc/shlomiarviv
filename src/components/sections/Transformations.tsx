@@ -82,7 +82,7 @@ export default function Transformations() {
     <section id="transformations" ref={ref} className="py-44 md:py-80 bg-[#F8F6F3] relative overflow-hidden">
       <div className="absolute top-0 inset-x-0 h-px bg-[#111111]/[0.10]" />
 
-      <div className="max-w-6xl mx-auto px-8 md:px-16 lg:px-28 xl:px-36">
+      <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-16 xl:px-20">
 
         {/* Headline */}
         <div className="mb-20 md:mb-28 text-center">

@@ -69,7 +69,7 @@ export default function Testimonials() {
       <div className="absolute inset-0 pointer-events-none"
         style={{ background: "radial-gradient(ellipse 70% 60% at 50% 50%, rgba(200,169,126,0.05) 0%, transparent 70%)" }} />
 
-      <div className="max-w-6xl mx-auto px-8 md:px-16 lg:px-28 xl:px-36">
+      <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-16 xl:px-20">
 
         {/* Header */}
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 md:mb-24 gap-8">
