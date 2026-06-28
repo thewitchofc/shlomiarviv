@@ -42,7 +42,7 @@ export default function Navigation() {
             : "bg-transparent"
         }`}
       >
-        <div className="max-w-6xl mx-auto px-8 md:px-16 lg:px-28 xl:px-36">
+        <div className="max-w-[1600px] mx-auto px-8 md:px-16 lg:px-28 xl:px-36">
           <div className="flex items-center justify-between h-20 md:h-24">
 
             {/* Logo */}
